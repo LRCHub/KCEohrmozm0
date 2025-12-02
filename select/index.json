@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Force",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2025-12-02T15:20:46.084880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "May the Force Be With You",
+      "artist": "XV feat. Killer Mike & Mac Miller",
+      "has_synced": false,
+      "path": "select/01_May_the_Force_Be_With_You_XV_feat._Killer_Mike_&_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "May The Force Be With You feat Killer Mike & Mac Miller (Prod by Seven)",
+      "artist": "XV",
+      "has_synced": false,
+      "path": "select/02_May_The_Force_Be_With_You_feat_Killer_Mike_&_Mac_Miller_(Prod_by_Seven)_XV.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Air Force Ones",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/03_Air_Force_Ones_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Force Of Nature",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Force_Of_Nature_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Task Force",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/05_Task_Force_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Major Force",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/06_Major_Force_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La force de me battre",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/07_La_force_de_me_battre_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Use The Force",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/08_Use_The_Force_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eye for an Eye (Dylan Rhymes vs. Force Mass Motion Remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/09_Eye_for_an_Eye_(Dylan_Rhymes_vs._Force_Mass_Motion_Remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eye For An Eye (Dylan Rhymes Vs Force Mass Motion Remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/10_Eye_For_An_Eye_(Dylan_Rhymes_Vs_Force_Mass_Motion_Remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In a State (Meat Katie vs. Elite Force Remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/11_In_a_State_(Meat_Katie_vs._Elite_Force_Remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In A State (Meat Katie Vs Elite Force Remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/12_In_A_State_(Meat_Katie_Vs_Elite_Force_Remix)_UNKLE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Force",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Force_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
